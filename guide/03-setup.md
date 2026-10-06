@@ -2,9 +2,8 @@
 
 ## Before You Start
 
-1. Click **Use this template** to create your own copy of this repository. Make it private.
-2. Add the reviewer account named on your assignment as a read-only collaborator.
-3. Clone your copy to your own machine.
+1. Click **Use this template** to create your own copy of this repository. Make it **public** and leave it public after you finish: your reviewer can see it without any setup, and it doubles as a portfolio piece.
+2. Clone your copy to your own machine.
 
 ## Your Client
 

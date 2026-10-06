@@ -1,6 +1,6 @@
 project_id: 0
 title: "Foundations: AI-Driven SDLC"
-version: 1.0.0
+version: 1.0.1
 type: build
 tier: junior
 category: Foundations
@@ -28,7 +28,7 @@ technologies_to_learn:
   - Testing (unit, integration, UI with Playwright, edge cases, regression, UAT)
   - Environment variables and keeping secrets out of Git
   - GitHub Actions (a basic automatic check)
-  - Git and GitHub (template repositories, commits, collaborator access)
+  - Git and GitHub (template repositories, public repositories, commits)
   - Loom screen recording
 certifications_required: []
 certifications_recommended:

@@ -56,4 +56,4 @@ Prepare for all of them.
 
 ## Portfolio Use
 
-You may show your dashboard and write-ups as your own practice work, with no copy of this brief and no mention of the programme.
+Your public repository is your portfolio piece. Present your dashboard and write-ups as your own practice work.
